@@ -1,4 +1,4 @@
-# SCANOSS Open Source Engine
+# SCANOSS Engine Security Update Open Source Engine
 
 This repo provides an update to SCANOSS. Previously, SCANOSS used the MD5 cryptographic hashing algorithm, which can be easily broken and cause unwanted source code exposure to an adversary. The code here updates from the MD5 algorithm to the robust SHA-256. 
 
