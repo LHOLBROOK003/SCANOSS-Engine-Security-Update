@@ -13,6 +13,7 @@
 #include <netdb.h>
 #include <netinet/in.h>
 #include <openssl/md5.h>
+#include <openssl/sha.h>
 #include <sched.h>
 #include <semaphore.h>
 #include <signal.h>
